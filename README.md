@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @blacktutor97zamani
-- 👀 I’m interested in Coding, programming and Graphic design
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate with anyone 
-- 📫 How to reach me yussifmohammedc55@gmail.com 
-
-
+I’m a Computer Science student and passionate tech enthusiast focused on Java and building real-world software solutions. I enjoy learning deeply, improving my problem-solving skills, and working on projects that help people and businesses. Currently growing my skills in java, data structures, algorithms, desktop applications, and system design.
